@@ -1,4 +1,4 @@
-# ☁️ Serverless Event-Driven File Processing System (Advanced AWS Project)
+# ☁️ Serverless Event-Driven File Processing System 
 
 ## 🔴 Problem Statement
 
